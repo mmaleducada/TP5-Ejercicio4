@@ -8,3 +8,7 @@ body {
 main {
     flex-grow: 1;
 }
+
+section {
+    border: solid 2px white;
+}
