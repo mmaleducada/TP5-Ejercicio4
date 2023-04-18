@@ -11,4 +11,13 @@ main {
 
 section {
     border: solid 2px white;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.reloj {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 20px;
 }
